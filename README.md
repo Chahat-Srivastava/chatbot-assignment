@@ -32,7 +32,7 @@ A powerful **AI-powered Chatbot** designed to assist users with **Customer Data 
 
 ### **1. Clone the Repository**
 ```sh
- git clone https://github.com/yourusername/customer-data-chatbot.git
+ git clone https://github.com/chahat-srivastava/chatbot-assignment.git
  cd customer-data-chatbot
 ```
 
