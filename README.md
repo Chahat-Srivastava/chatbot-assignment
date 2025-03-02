@@ -18,7 +18,6 @@ A powerful **AI-powered Chatbot** designed to assist users with **Customer Data 
 ### **Frontend**
 - **React.js** – Dynamic and interactive UI.
 - **Bulma CSS** – Elegant and responsive styling.
-- **Redux (if used)** – Efficient state management.
 - **WebSockets** – Real-time chatbot interactions.
 
 ### **Backend**
